@@ -1,7 +1,7 @@
 import React from 'react';
 
 const GlobalHealthHuman = () => (
-  <div>
+  <div className="content">
     <h1>Global Health & Humanitarianism</h1>
     <h2>Today, over 140 million people are in urgent need of humanitarian assistance, while available assistance and protection fails to meet even half of the identified needs. With increasing climate and political instability globally, this unprecedented state of crisis is only expected to worsen.</h2>
     <p>The Dahdaleh Institute for Global Health Research is responding to this crisis by catalyzing collaborative research with operational partners from the humanitarian domain in two core areas:</p>

@@ -1,7 +1,7 @@
 import React from 'react';
 
 const PlanetaryHealth = () => (
-  <div>
+  <div className="content">
     <h1>Planetary Health</h1>
     <h2>According to The Lancet medical journal, climate change poses the greatest global health challenge of the 21st Century.</h2>
     <p>While emerging challenges of the global commons such as climate change can exacerbate existing fault lines, the crossing of planetary ecological boundaries has increasingly uncertain feedback effects on the biosphere and human civilization. The emerging field of planetary health embraces this broader scope of analysis by describing and aspiring to the health and viability of human civilization and our planetary biosphere. The ways in which we presently live, for example, result in the consumption of 1.7 times the sustainable carrying capacity of Earth’s ecosphere. The theme of planetary public health calls urgent attention to the complexity and impacts of ecological and human systems, while also inviting deeper reflection on the human ecology convergence.</p>

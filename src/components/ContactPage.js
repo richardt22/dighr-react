@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ContactPage = () => (
-  <div>
+  <div className="content">
     <h1>Contact</h1>
     <p>Thank you for connecting with the Dahdaleh Institute for Global Health Research. We'd love to hear from you.</p>
     <p><strong>Email:</strong> dighr@yorku.ca<br />
@@ -15,6 +15,7 @@ const ContactPage = () => (
     M3J 2S5<br />
     Canada</p>
   </div>
+
 );
 
 export default ContactPage;

@@ -1,7 +1,7 @@
 import React from 'react';
 
 const GlobalHealthForesight = () => (
-  <div>
+  <div className="content">
     <h1>Global Health Foresighting</h1>
     <h2>The health of human civilization and the state of the biospheric systems on which it depends, are intimately linked. This planetary system is now very tightly coupled, with both enormous information content and potential for novelty, albeit with declining resilience. Can we have the foresight to transform our present actions and value choices not only to anticipate future global health scenarios, but more explicitly to create the “future we want”?</h2>
     <p>Traditional reactive approaches to anticipating and planning for the future typically use a scenario planning strategy that is driven by data, trend analysis and expert opinion. Rather than simply reacting, the objective of global health foresighting is acting imaginatively and intentionally toward the “Global Health We Want,” employing a transdisciplinary approach informed by intentional design and transformative scenario planning.</p>

@@ -2,8 +2,8 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 
 const Header = () => (
-  <header>
-    <h1>Portfolio</h1>
+  <header className="header">
+    <h1 className="header-heading">Dahdelah Institute for Global Health Research</h1>
     <NavLink to="/" activeClassName="is-active" exact={true}>Home</NavLink>
     <NavLink to="/planetaryhealth" activeClassName="is-active" exact={true}>Planetary Health</NavLink>
     <NavLink to="/globalhealthhuman" activeClassName="is-active" exact={true}>Global Health Humanitarianism</NavLink>

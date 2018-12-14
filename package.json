@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d public"
   },
-  "homepage": "https://richardt22.github.io/dighr-react",
+  "homepage": "https://richardt22.github.io/dighr-react/",
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",

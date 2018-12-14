@@ -8,10 +8,10 @@
     "serve": "live-server public/",
     "build": "webpack",
     "dev-server": "webpack-dev-server",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d public"
   },
-  "homepage": "http://richardt22.github.io/dighr-react",
+  "homepage": "https://richardt22.github.io/dighr-react",
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",

@@ -4,13 +4,13 @@
   "main": "index.js",
   "author": "Richard Trinh",
   "license": "MIT",
+  "homepage": "https://richardt22.github.io/dighr-react",
   "scripts": {
     "serve": "live-server public/",
     "build": "webpack",
     "dev-server": "webpack-dev-server",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d public",
-   "homepage": "https://richardt22.github.io/dighr-react"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "babel-cli": "^6.26.0",
@@ -41,6 +41,5 @@
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "webpack": "^3.1.0"
-  },
-
+  }
 }
